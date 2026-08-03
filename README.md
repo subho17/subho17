@@ -49,7 +49,9 @@
 ### 💭 Random Dev Quote
 
 <p align="center">
-  <img src="https://github-readme-quotes-woad.vercel.app/api?type=horizontal&theme=tokyonight" />
+  
+  <p>"Wear your failure as a badge of honor."</p>
+  <p>"It is always good to work with people who make you feel insecure about yourself. That way, you will constantly keep pushing your limits." — Sundar Pichai</p>
 </p>
 
 ### 🏆 Trophies
