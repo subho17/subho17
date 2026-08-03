@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋 I'm Your Name</h1>
+<h1 align="center">Hi 👋 I'm Your SUBHADEEP CHANDA</h1>
 
-<h3 align="center">Your Tagline • e.g. Full-Stack Developer • ML Enthusiast</h3>
+<h3 align="center">Full-Stack Dev • DSA Enthusiast •AI & ML Enthusiast• Turning Ideas Into Code, One Commit at a Time</h3>
 
 <p align="center">
-  <a href="#">Your Portfolio Link</a>
+  <a href="#">3-d-portfolio-pied-one.vercel.app
+</a>
 </p>
 
 ### 🌐 Connect with Me
